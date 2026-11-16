@@ -1,6 +1,6 @@
-# 🔬 LifEasy — Leica `.lif` Microscopy Viewer & Real-Time Studio
+# 🔬 LifEasyLife — Leica `.lif` Microscopy Viewer & Real-Time Studio
 
-A Streamlit web application (**LifEasy**) for inspecting Leica Image Format (`.lif`) confocal and widefield fluorescence microscopy files using [`readlif`](https://pypi.org/project/readlif/) and [`tifffile`](https://pypi.org/project/tifffile/).
+A Streamlit web application (**LifEasyLife**) for inspecting Leica Image Format (`.lif`) confocal and widefield fluorescence microscopy files using [`readlif`](https://pypi.org/project/readlif/) and [`tifffile`](https://pypi.org/project/tifffile/).
 
 ## Features
 

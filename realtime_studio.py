@@ -735,7 +735,7 @@ def build_realtime_studio_html(
   <div class="viewport-panel">
     <div class="viewport-toolbar">
       <div class="meta-badges">
-        <span class="badge" style="background:#1e293b; border-color:#3b82f6; color:#f8fafc; font-weight:700; font-size:13px;">🔬 LifEasy</span>
+        <span class="badge" style="background:#1e293b; border-color:#3b82f6; color:#f8fafc; font-weight:700; font-size:13px;">🔬 LifEasyLife</span>
         <span class="badge badge-highlight" id="res-badge">Original Size: {width} × {height} px (Full Quality)</span>
         <span class="badge">{meta.name}</span>
         <span class="badge">{mode_label}</span>
