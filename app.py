@@ -138,7 +138,7 @@ def main() -> None:
 
     # --- SIDEBAR: FILE UPLOAD, SERIES SELECTION & Z-STACK / MIP ---
     with st.sidebar:
-        st.markdown("## 🔬 LifEasy")
+        st.markdown("## 🔬 LifEasyLife")
         st.caption("Leica `.lif` Microscopy Viewer & Real-Time Studio")
         st.header("📂 1. Data Source")
         uploaded_file = st.file_uploader(
