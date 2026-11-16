@@ -38,7 +38,7 @@ from realtime_studio import build_realtime_studio_html
 
 
 st.set_page_config(
-    page_title="LifEasy — Leica .lif Microscopy Studio",
+    page_title="LifEasyLife — Leica .lif Microscopy Studio",
     page_icon="🔬",
     layout="wide",
     initial_sidebar_state="expanded",
